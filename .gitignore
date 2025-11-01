@@ -1,0 +1,14 @@
+# Ignorar bibliotecas e arquivos binários
+SFML/
+sfml/
+lib/
+bin/
+include/
+*.dll
+*.lib
+*.so
+*.a
+*.exe
+*.obj
+*.pdb
+*.o
