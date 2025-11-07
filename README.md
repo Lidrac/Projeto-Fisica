@@ -4,10 +4,6 @@ Este projeto é um "laboratório virtual" programado em C++ com a biblioteca gr�
 
 O objetivo principal é visualizar as forças invisíveis (Magnética e Elétrica) que atuam sobre os portadores de carga e entender como o sistema busca um estado de equilíbrio, resultando na Tensão Hall.
 
-## 📸 Screenshots
-
-[Insira aqui um screenshot da sua simulação em ação]
-
 ## 🚀 Funcionalidades
 
 - **Simulação em Tempo Real:** Observe a trajetória de um portador de carga (elétron ou lacuna) ser desviada por um campo magnético.
